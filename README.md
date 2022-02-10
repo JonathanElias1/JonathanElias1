@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonathanElias1
-- 👀 I’m interested in ... Javascript, React, Three JS, P5.JS
+- 👀 I’m currently interested in ... Javascript, React, Three JS, and P5.JS
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... jonathanelias3223@gmail.com
